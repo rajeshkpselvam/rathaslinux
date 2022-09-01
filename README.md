@@ -1,2 +1,2 @@
 # rathaslinux
-Debian Linux
+Rocky Linux
